@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MUNDO DA TECNOLOGIA</title>
+</head>
+
+<body>
+
+<header>
+<h1>Mundo da Tecnologia</h1>
+<p>Aprendendo sobre programação e inovação</p>
+</header>
+
+<nav>
+<a href="#inicio">Início</a> |
+<a href="#programacao">Programação</a> |
+<a href="#curiosidades">Curiosidades</a> |
+<a href="#contato">Contato</a>
+</nav>
+
+<main>
+
+<section id="inicio">
+
+<article>
+<h2>O que é Tecnologia?</h2>
+
+<p>
+A tecnologia faz parte do nosso dia a dia. Ela está presente em celulares,
+computadores, internet e em muitas outras ferramentas que facilitam a vida
+das pessoas.
+</p>
+
+<p>
+Hoje em dia aprender programação pode abrir muitas oportunidades de trabalho.
+</p>
+
+</article>
+
+<aside>
+<h3>Dica</h3>
+<p>Começar com HTML, CSS e Python é um ótimo caminho para entrar na área.</p>
+</aside>
+
+</section>
+
+
+<section id="programacao">
+
+<article>
+<h2>O que é Programação?</h2>
+
+<p>
+Programação é o processo de criar instruções para que um computador execute
+determinadas tarefas.
+</p>
+
+<ul>
+<li>HTML – estrutura de páginas web</li>
+<li>CSS – aparência dos sites</li>
+<li>JavaScript – interação</li>
+<li>Python – lógica e automação</li>
+</ul>
+
+</article>
+
+</section>
+
+
+<section id="curiosidades">
+
+<article>
+
+<h2>Curiosidades sobre tecnologia</h2>
+
+<ul>
+<li>O primeiro computador ocupava uma sala inteira.</li>
+<li>O primeiro site da internet foi criado em 1991.</li>
+<li>Hoje existem bilhões de sites no mundo.</li>
+</ul>
+
+</article>
+
+</section>
+
+
+<section id="contato">
+
+<h2>Formulário de Contato</h2>
+
+<form>
+
+<label for="nome">Nome:</label><br>
+<input type="text" id="nome" name="nome"><br><br>
+
+<label for="email">Email:</label><br>
+<input type="email" id="email" name="email"><br><br>
+
+<label for="senha">Senha:</label><br>
+<input type="password" id="senha" name="senha"><br><br>
+
+<label for="idade">Idade:</label><br>
+<input type="number" id="idade" name="idade"><br><br>
+
+<label for="data">Data de nascimento:</label><br>
+<input type="date" id="data" name="data"><br><br>
+
+<p>Você gosta de programação?</p>
+
+<input type="radio" name="gosta" value="sim">
+<label>Sim</label>
+
+<input type="radio" name="gosta" value="nao">
+<label>Não</label><br><br>
+
+
+<p>Quais linguagens você conhece?</p>
+
+<input type="checkbox" name="html">
+<label>HTML</label>
+
+<input type="checkbox" name="python">
+<label>Python</label>
+
+<input type="checkbox" name="javascript">
+<label>JavaScript</label><br><br>
+
+
+<label for="linguagem">Linguagem favorita:</label><br>
+
+<select id="linguagem">
+
+<option>HTML</option>
+<option>Python</option>
+<option>JavaScript</option>
+<option>CSS</option>
+
+</select><br><br>
+
+
+<label for="mensagem">Mensagem:</label><br>
+
+<textarea id="mensagem" rows="4" cols="40"></textarea><br><br>
+
+<button type="submit">Enviar</button>
+
+</form>
+
+</section>
+
+</main>
+
+<footer>
+
+<p>Agradeço a todos pela paciência</p>
+
+</footer>
+
+</body>
+
+</html>
