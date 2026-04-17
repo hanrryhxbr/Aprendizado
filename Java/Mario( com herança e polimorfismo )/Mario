@@ -1,0 +1,105 @@
+public class Mario {
+    private int vidas;
+    private int pontuacao;
+    private EstadoDoMario estado;
+
+    //Construtor
+
+    Mario() {
+
+        this.vidas = 3;
+        this.pontuacao = 0;
+        this.estado = new MarioPequeno();
+    }
+
+    //Métodos
+
+    public void mostrarStatus() {
+
+        System.out.printf("""
+                --------------------
+                 Vidas = %d
+                 Pontos = %d
+                 Estado = %s
+                --------------------""", this.vidas, this.pontuacao, this.estado.getEstadoDoMario());
+    }
+
+    public void mudarEstado(EstadoDoMario novoEstado) {
+
+        this.estado = novoEstado;
+
+    }
+
+    public boolean pula() {
+
+        System.out.println("O Mario pulou!");
+        return true;
+
+    }
+
+    public boolean anda() {
+
+        System.out.println("O Mario andou para frente!");
+        return true;
+
+    }
+
+    public void ganhaPontos(int quantidade) {
+
+        this.pontuacao += quantidade;
+
+    }
+
+
+    public void perdeVida(int quantidade) {
+
+        this.vidas -= quantidade;
+        if (vidas <= 0) {
+
+            System.out.println("As vidas acabaram.");
+
+        }
+
+    }
+
+    //Métodos para mudar estados
+
+    public void pegaCogumelo() {
+
+        this.estado.pegaCogumelo(this);
+
+    }
+
+    public void pegaPena() {
+
+        this.estado.pegaPena(this);
+
+    }
+
+    public void pegaFlor() {
+
+        this.estado.pegaFlor(this);
+
+    }
+
+    public void levaDano() {
+
+        this.estado.levaDano(this);
+
+    }
+
+    //Getters e setters
+
+    public int getVidas() {
+
+        return vidas;
+
+    }
+
+    public int getPontuacao() {
+
+        return pontuacao;
+
+    }
+
+}
