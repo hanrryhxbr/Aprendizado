@@ -1,0 +1,13 @@
+public abstract class EstadoDoMario {
+
+    public abstract void pegaCogumelo(Mario mario);
+
+    public abstract void pegaPena(Mario mario);
+
+    public abstract void pegaFlor(Mario mario);
+
+    public abstract void levaDano(Mario mario);
+
+    public abstract String getEstadoDoMario();
+
+}
