@@ -1,0 +1,14 @@
+public class ContaCorrente extends Conta{
+    @Override
+    public void atualiza(double taxaSelic) {
+        super.atualiza(taxaSelic * 2);
+        this.saca(15);
+    }
+
+    //mÃ©todo antigo sem utilzar "super."
+//    public void atualiza(double taxaSelic) {
+//        double saldo = this.getSaldo();
+//        this.deposita(((saldo * (1 + 2 * taxaSelic)) - saldo));
+//        this.saca(15);
+//    }
+}
