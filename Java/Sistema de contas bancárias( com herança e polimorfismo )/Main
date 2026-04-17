@@ -1,0 +1,23 @@
+public class Main {
+    public static void main(String[] args) {
+
+        Banco banco = new Banco();
+        AtualizadorDeContas adc = new AtualizadorDeContas(0.08);
+        Conta c = new Conta();
+        ContaCorrente cc = new ContaCorrente();
+        ContaPoupanca cp = new ContaPoupanca();
+
+        c.deposita(1000);
+        banco.adiciona(c);
+        cc.deposita(1000);
+        banco.adiciona(cc);
+        cp.deposita(1000);
+        banco.adiciona(cp);
+
+        for (int i = 0; i == banco.pegaTotalDeContas(); i++) {
+            adc.roda(banco.pega(i));
+            System.out.println(adc.getSaldoTotal());
+
+        }
+    }
+}
