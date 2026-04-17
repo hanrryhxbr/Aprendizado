@@ -1,0 +1,47 @@
+public class Conta {
+    private double saldo;
+    private int numero;
+    private String titular;
+
+    public boolean deposita(double quantidade) {
+        if (quantidade > 0) {
+            this.saldo += quantidade;
+            return true;
+        }
+        else {
+            System.out.println("Deposito inválido.");
+            return false;
+        }
+    }
+
+    public boolean saca(double quantidade) {
+        if (quantidade > 0 && this.saldo > quantidade) {
+            this.saldo -= quantidade;
+            return true;
+        }
+        else {
+            System.out.println("Saque inválido.");
+            return false;
+        }
+    }
+
+    public boolean transfere(double quantidade, Conta destino) {
+        if (quantidade > 0 && this.saldo > quantidade) {
+            this.saldo -= quantidade;
+            destino.saldo += quantidade;
+            return true;
+        }
+        else {
+            System.out.println("Transferência inválida.");
+            return false;
+        }
+    }
+
+    public void atualiza(double taxaSelic) {
+        this.saldo *= (1 + taxaSelic);
+    }
+
+    public double getSaldo() {
+        return saldo;
+    }
+}
