@@ -1,0 +1,43 @@
+public class MarioPena extends EstadoDoMario {
+
+    @Override
+    public void pegaCogumelo(Mario mario) {
+
+        System.out.println("O Mario pegou um Cogumelo");
+        mario.ganhaPontos(100);
+
+    }
+
+    @Override
+    public void pegaPena(Mario mario) {
+
+        System.out.println("O Mario pegou uma Pena");
+        mario.ganhaPontos(100);
+
+    }
+
+    @Override
+    public void pegaFlor(Mario mario) {
+
+        System.out.println("O Mario virou Mario com Flor");
+        mario.ganhaPontos(100);
+
+        MarioFlor novoEstado = new MarioFlor();
+        mario.mudarEstado(novoEstado);
+    }
+
+    @Override
+    public void levaDano(Mario mario) {
+
+        System.out.println("O Mario levou dano e ficou pequeno");
+        mario.ganhaPontos(-100);
+
+        MarioPequeno novoEstado = new MarioPequeno();
+        mario.mudarEstado(novoEstado);
+    }
+
+    @Override
+    public String getEstadoDoMario() {
+        return "Mario com Pena";
+    }
+}
