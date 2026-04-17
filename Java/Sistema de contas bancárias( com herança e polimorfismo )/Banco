@@ -1,0 +1,30 @@
+import java.util.ArrayList;
+
+public class Banco {
+
+    private ArrayList<Conta> contas = new ArrayList<>();
+    private int totalDeContas;
+
+    Banco() {
+        this.totalDeContas = 0;
+    }
+
+    public void adiciona(Conta c) {
+        this.contas.add(c);
+    }
+
+    Conta pega(int x) {
+        if (x >=0 && x < contas.size()) {
+            return this.contas.get(x);
+        }
+        return null;
+    }
+
+    int pegaTotalDeContas() {
+        return contas.size();
+    }
+
+    public int getTotalDeContas() {
+        return totalDeContas;
+    }
+}
