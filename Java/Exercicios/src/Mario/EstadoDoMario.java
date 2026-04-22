@@ -1,3 +1,5 @@
+package Mario;
+
 public abstract class EstadoDoMario {
 
     public abstract void pegaCogumelo(Mario mario);

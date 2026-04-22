@@ -1,9 +1,11 @@
-public class MarioPena extends EstadoDoMario {
+package Mario;
+
+public class MarioGrande extends EstadoDoMario {
 
     @Override
     public void pegaCogumelo(Mario mario) {
 
-        System.out.println("O Mario pegou um Cogumelo");
+        System.out.println("O Mario.Mario pegou um Cogumelo");
         mario.ganhaPontos(100);
 
     }
@@ -11,15 +13,17 @@ public class MarioPena extends EstadoDoMario {
     @Override
     public void pegaPena(Mario mario) {
 
-        System.out.println("O Mario pegou uma Pena");
+        System.out.println("O Mario.Mario virou Mario.Mario com Pena");
         mario.ganhaPontos(100);
 
+        MarioPena novoEstado = new MarioPena();
+        mario.mudarEstado(novoEstado);
     }
 
     @Override
     public void pegaFlor(Mario mario) {
 
-        System.out.println("O Mario virou Mario com Flor");
+        System.out.println("O Mario.Mario virou Mario.Mario com Flor");
         mario.ganhaPontos(100);
 
         MarioFlor novoEstado = new MarioFlor();
@@ -29,7 +33,7 @@ public class MarioPena extends EstadoDoMario {
     @Override
     public void levaDano(Mario mario) {
 
-        System.out.println("O Mario levou dano e ficou pequeno");
+        System.out.println("O Mario.Mario levou dano e ficou pequeno");
         mario.ganhaPontos(-100);
 
         MarioPequeno novoEstado = new MarioPequeno();
@@ -38,6 +42,6 @@ public class MarioPena extends EstadoDoMario {
 
     @Override
     public String getEstadoDoMario() {
-        return "Mario com Pena";
+        return "Mario.Mario com Cogumelo";
     }
 }

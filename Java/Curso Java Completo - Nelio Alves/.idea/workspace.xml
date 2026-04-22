@@ -2,59 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dc3ebe9-df06-4656-a2cd-14ea0013c0e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso Java Completo - Nelio Alves.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasCondicionais/ExerciciosOpcionais/Exercicio1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasCondicionais/ExerciciosOpcionais/Exercicio2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasCondicionais/ExerciciosOpcionais/Exercicio3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasCondicionais/ExerciciosOpcionais/Exercicio4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasCondicionais/ExerciciosOpcionais/Exercicio5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasCondicionais/ExerciciosOpcionais/Exercicio6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasCondicionais/ExerciciosOpcionais/Exercicio7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasCondicionais/ExerciciosOpcionais/Exercicio8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasRepetitivas/ExerciciosOpcionais/For/Exercicio1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasRepetitivas/ExerciciosOpcionais/For/Exercicio2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasRepetitivas/ExerciciosOpcionais/For/Exercicio3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasRepetitivas/ExerciciosOpcionais/For/Exercicio4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasRepetitivas/ExerciciosOpcionais/For/Exercicio5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasRepetitivas/ExerciciosOpcionais/For/Exercicio6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasRepetitivas/ExerciciosOpcionais/While/Exercicio1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasRepetitivas/ExerciciosOpcionais/While/Exercicio2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasRepetitivas/ExerciciosOpcionais/While/Exercicio3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/Exercicio1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasCondicionais/ExerciciosOpcionais/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasCondicionais/ExerciciosOpcionais/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasCondicionais/ExerciciosOpcionais/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasCondicionais/ExerciciosOpcionais/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasCondicionais/ExerciciosOpcionais/Exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasCondicionais/ExerciciosOpcionais/Exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasCondicionais/ExerciciosOpcionais/Exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasCondicionais/ExerciciosOpcionais/Exercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasRepetitivas/ExerciciosOpcionais/For/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasRepetitivas/ExerciciosOpcionais/For/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasRepetitivas/ExerciciosOpcionais/For/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasRepetitivas/ExerciciosOpcionais/For/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasRepetitivas/ExerciciosOpcionais/For/Exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasRepetitivas/ExerciciosOpcionais/For/Exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasRepetitivas/ExerciciosOpcionais/While/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasRepetitivas/ExerciciosOpcionais/While/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasRepetitivas/ExerciciosOpcionais/While/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasSequenciais/ExercicioProposto1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mario( com herança e polimorfismo )/EstadoDoMario" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mario( com herança e polimorfismo )/Main" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mario( com herança e polimorfismo )/Mario" beforeDir="false" />

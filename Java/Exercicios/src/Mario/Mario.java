@@ -1,3 +1,5 @@
+package Mario;
+
 public class Mario {
     private int vidas;
     private int pontuacao;
@@ -32,14 +34,14 @@ public class Mario {
 
     public boolean pula() {
 
-        System.out.println("O Mario pulou!");
+        System.out.println("O Mario.Mario pulou!");
         return true;
 
     }
 
     public boolean anda() {
 
-        System.out.println("O Mario andou para frente!");
+        System.out.println("O Mario.Mario andou para frente!");
         return true;
 
     }
