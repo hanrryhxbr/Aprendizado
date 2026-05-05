@@ -38,7 +38,7 @@ public class MarioPequeno extends EstadoDoMario {
         System.out.println("O Mario.Mario levou dano");
         mario.ganhaPontos(-100);
 
-        mario.perdeVida();
+        mario.perdeVida(1);
     }
 
     @Override

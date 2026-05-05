@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82b7a3a2-208d-4a3c-941f-782f0a9b39a4" name="Changes" comment="" />
+    <list default="true" id="82b7a3a2-208d-4a3c-941f-782f0a9b39a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/dataHora/java_Time/minhaFixacao_CalculosComDataHora/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/dataHora/java_Time/minhaFixacao_ConvertendoDataHora/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/dataHora/java_Time/minhaFixacao_InstanciandoDataHora/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/dataHora/java_Util_Date/minhaFixacao_Date/instanciandoSimpleFormat_Date/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicioPre_SegundoEstagio/Arqueiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicioPre_SegundoEstagio/Guerreiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicioPre_SegundoEstagio/Mago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicioPre_SegundoEstagio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicioPre_SegundoEstagio/RecursoInsuficienteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicioPre_SegundoEstagio/abstract_Personagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicioPre_SegundoEstagio/interface_HabilidadeEspecial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/out/production/Curso Java Completo - Nelio Alves/MinhaFixacao_operacoesComStrings/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/out/production/Curso Java Completo - Nelio Alves/MinhaFixacao_operacoesComStrings/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/out/production/Curso Java Completo - Nelio Alves/memoriaArraysListas/MinhaFixacao_ForEachWrapperClass/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/out/production/Curso Java Completo - Nelio Alves/memoriaArraysListas/MinhaFixacao_ForEachWrapperClass/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/out/production/Curso Java Completo - Nelio Alves/memoriaArraysListas/MinhaFixacao_OperacoesComListas/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/out/production/Curso Java Completo - Nelio Alves/memoriaArraysListas/MinhaFixacao_OperacoesComListas/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/MinhaFixacao_operacoesComStrings/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/minhaFixacao_OperacoesComStrings/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/estruturasSequenciais/exercicioProposto1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/estruturasSequenciais/exercicioProposto/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/estruturasSequenciais/exerciciosOpcionais1/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/estruturasSequenciais/exerciciosOpcionais/Exercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/estruturasSequenciais/exerciciosOpcionais1/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/estruturasSequenciais/exerciciosOpcionais/Exercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/estruturasSequenciais/exerciciosOpcionais1/Exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/estruturasSequenciais/exerciciosOpcionais/Exercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/estruturasSequenciais/exerciciosOpcionais1/Exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/estruturasSequenciais/exerciciosOpcionais/Exercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/estruturasSequenciais/exerciciosOpcionais1/Exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/estruturasSequenciais/exerciciosOpcionais/Exercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/estruturasSequenciais/exerciciosOpcionais1/Exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/estruturasSequenciais/exerciciosOpcionais/Exercicio6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/memoriaArraysListas/MinhaFixacao_ForEachWrapperClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/memoriaArraysListas/minhaFixacao_ForEachWrapperClass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/memoriaArraysListas/MinhaFixacao_OperacoesComListas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Curso Java Completo - Nelio Alves/src/memoriaArraysListas/minhaFixacao_OperacoesComListas/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mario/MarioPequeno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mario/MarioPequeno.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +44,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -21,20 +56,25 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="3CiAsJgTMMlRH1NISVBxNItIXmh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\romer\Desktop\Meus Bagui\Programação\Aprendizado\Java\Exercicios\src\SistemaDeContasBancárias" />
@@ -56,5 +96,15 @@
       <updated>1776858223411</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
