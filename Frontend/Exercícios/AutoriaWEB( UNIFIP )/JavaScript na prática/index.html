@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JavaScript na Prática</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <div class="page">
+    <header class="hero">
+      <div class="hero__content">
+        <h1 id="tituloPrincipal">JavaScript na prática</h1>
+        <p id="descricaoPrincipal">
+          Vamos aprender como adicionar comportamento à interface usando variáveis,
+          funções, DOM e eventos.
+        </p>
+
+        <div class="hero__actions">
+          <button id="botaoMensagem" class="btn btn--primary">Mostrar mensagem</button>
+          <button id="botaoTema" class="btn btn--secondary">Alternar destaque</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="card card--highlight">
+        <h2>Boas-vindas</h2>
+        <p id="mensagem">
+          Clique no botão para interagir com a página.
+        </p>
+      </section>
+
+      <section class="grid">
+        <article class="card">
+          <h2>Exemplo 1: Alterar texto</h2>
+          <p id="textoCard">
+            Este texto será modificado com JavaScript.
+          </p>
+          <button id="botaoAlterarTexto" class="btn btn--primary">Alterar texto</button>
+        </article>
+
+        <article class="card">
+          <h2>Exemplo 2: Contador</h2>
+          <p class="contador">
+            Valor atual: <span id="contadorValor">0</span>
+          </p>
+          <div class="actions-inline">
+            <button id="botaoSomar" class="btn btn--primary">+1</button>
+            <button id="botaoSubtrair" class="btn btn--secondary">-1</button>
+            <button id="botaoResetar" class="btn btn--ghost">Resetar</button>
+          </div>
+        </article>
+
+        <article class="card">
+          <h2>Exemplo 3: Entrada do usuário</h2>
+          <label for="inputNome" class="label">Digite seu nome</label>
+          <input id="inputNome" class="input" type="text" placeholder="Seu nome" />
+          <button id="botaoSaudacao" class="btn btn--primary">Saudar</button>
+          <p id="saidaNome" class="saida"></p>
+        </article>
+
+        <article class="card">
+          <h2>Exemplo 4: Classe CSS</h2>
+          <p id="textoDestaque">
+            Este bloco pode receber ou perder uma classe via JavaScript.
+          </p>
+          <button id="botaoClasse" class="btn btn--secondary">Aplicar/remover classe</button>
+        </article>
+      </section>
+    </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>

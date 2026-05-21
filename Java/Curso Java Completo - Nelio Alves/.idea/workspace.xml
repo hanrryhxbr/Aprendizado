@@ -2,58 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dc3ebe9-df06-4656-a2cd-14ea0013c0e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dataHora/java_Time/minhaFixacaoJava_Time/CalculosComDataHora/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataHora/java_Time/minhaFixacaoJava_Time/ConvertendoDataHora/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataHora/java_Time/minhaFixacaoJava_Time/InstanciandoDataHora/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataHora/java_Util_Date/minhaFixacao_Date/fazendoCalculosComCalendar/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataHora/java_Util_Date/minhaFixacao_Date/instanciandoSimpleFormat_Date/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumaracoesComposicao/exercicioDeFixacao/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumaracoesComposicao/exercicioDeFixacao/entities/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumaracoesComposicao/exercicioDeFixacao/entities/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumaracoesComposicao/exercicioDeFixacao/entities/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumaracoesComposicao/exercicioDeFixacao/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumaracoesComposicao/exercicioDeFixacao/entities/enumerator/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecoesTryCatch/exercicioDeFixacao/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecoesTryCatch/exercicioDeFixacao/entitties/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecoesTryCatch/exercicioDeFixacao/exceptions/IllegalDepositAmount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excecoesTryCatch/exercicioDeFixacao/exceptions/IllegalWithdrawAmount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herancaPolimorfismo/exercicioDeFixacao/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herancaPolimorfismo/exercicioDeFixacao/entities/ImportedProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herancaPolimorfismo/exercicioDeFixacao/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herancaPolimorfismo/exercicioDeFixacao/entities/UsedProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herancaPolimorfismo/exercicioDeFixacao_ABSTRACT/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herancaPolimorfismo/exercicioDeFixacao_ABSTRACT/entities/LegalEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herancaPolimorfismo/exercicioDeFixacao_ABSTRACT/entities/NaturalPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herancaPolimorfismo/exercicioDeFixacao_ABSTRACT/entities/TaxPayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicios/src/exercicioPre_SegundoEstagio/Arqueiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicios/src/exercicioPre_SegundoEstagio/Guerreiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicios/src/exercicioPre_SegundoEstagio/Mago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicios/src/exercicioPre_SegundoEstagio/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicios/src/exercicioPre_SegundoEstagio/RecursoInsuficienteException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicios/src/exercicioPre_SegundoEstagio/abstract_Personagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercicios/src/exercicioPre_SegundoEstagio/interface_HabilidadeEspecial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trabalhandoComArquivos/minhaFixacao/fixacao1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trabalhandoComArquivos/minhaFixacao/fixacao2_tryWithResources.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/EstruturasSequenciais/ExerciciosOpcionais1/Exercicio6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/MinhaFixacao_operacoesComStrings/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/MinhaFixacao_operacoesComStrings/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/memoriaArraysListas/MinhaFixacao_ForEachWrapperClass/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/memoriaArraysListas/MinhaFixacao_ForEachWrapperClass/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/memoriaArraysListas/MinhaFixacao_OperacoesComListas/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/memoriaArraysListas/MinhaFixacao_OperacoesComListas/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinhaFixacao_operacoesComStrings/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/minhaFixacao_OperacoesComStrings/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estruturasSequenciais/exercicioProposto1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturasSequenciais/exercicioProposto/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estruturasSequenciais/exerciciosOpcionais1/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturasSequenciais/exerciciosOpcionais/Exercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estruturasSequenciais/exerciciosOpcionais1/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturasSequenciais/exerciciosOpcionais/Exercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estruturasSequenciais/exerciciosOpcionais1/Exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturasSequenciais/exerciciosOpcionais/Exercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estruturasSequenciais/exerciciosOpcionais1/Exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturasSequenciais/exerciciosOpcionais/Exercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estruturasSequenciais/exerciciosOpcionais1/Exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturasSequenciais/exerciciosOpcionais/Exercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estruturasSequenciais/exerciciosOpcionais1/Exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturasSequenciais/exerciciosOpcionais/Exercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/memoriaArraysListas/MinhaFixacao_ForEachWrapperClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/memoriaArraysListas/minhaFixacao_ForEachWrapperClass/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/memoriaArraysListas/MinhaFixacao_OperacoesComListas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/memoriaArraysListas/minhaFixacao_OperacoesComListas/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicios/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicios/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercicios/src/Mario/MarioPequeno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercicios/src/Mario/MarioPequeno.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,32 +34,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.EstruturasRepetitivas.ExerciciosOpcionais.For.Exercicio1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstruturasRepetitivas.ExerciciosOpcionais.While.Exercicio1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exercicioDeFixacao.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/romer/Desktop/Meus Bagui/Programação/Aprendizado/Java/Curso Java Completo - Nelio Alves&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EstruturasRepetitivas.ExerciciosOpcionais.For.Exercicio1.executor": "Run",
+    "Application.EstruturasRepetitivas.ExerciciosOpcionais.While.Exercicio1.executor": "Run",
+    "Application.Exercicio1.executor": "Run",
+    "Application.Exercicio2.executor": "Run",
+    "Application.Exercicio3.executor": "Run",
+    "Application.Exercicio4.executor": "Run",
+    "Application.Exercicio5.executor": "Run",
+    "Application.Exercicio6.executor": "Run",
+    "Application.Exercicio7.executor": "Run",
+    "Application.Exercicio8.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Program.executor": "Run",
+    "Application.exercicioDeFixacao.executor": "Run",
+    "Application.fixacao1.executor": "Run",
+    "Application.fixacao2_tryWithResources.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/romer/Desktop/Meus Bagui/Programação/Aprendizado/Java/Curso Java Completo - Nelio Alves",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
