@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dc3ebe9-df06-4656-a2cd-14ea0013c0e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/trabalhandoComArquivos/exercicioProposto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trabalhandoComArquivos/exercicioProposto_correcao/application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trabalhandoComArquivos/minhaFixacao/fixacao3_bufferedWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trabalhandoComArquivos/minhaFixacao/fixacao4_pastas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trabalhandoComArquivos/minhaFixacao/fixacao5_pegandoInfosDoCaminho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/exercicioDeFixacao/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/exercicioDeFixacao/model/entitties/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/exercicioDeFixacao/model/entitties/Installment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/exercicioDeFixacao/model/services/InstallmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/exercicioDeFixacao/model/services/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/exercicioDeFixacao/model/services/PaypalPaymentService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +20,7 @@
       <list>
         <option value="Enum" />
         <option value="Exception" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -37,38 +39,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.EstruturasRepetitivas.ExerciciosOpcionais.For.Exercicio1.executor": "Run",
-    "Application.EstruturasRepetitivas.ExerciciosOpcionais.While.Exercicio1.executor": "Run",
-    "Application.Exercicio1.executor": "Run",
-    "Application.Exercicio2.executor": "Run",
-    "Application.Exercicio3.executor": "Run",
-    "Application.Exercicio4.executor": "Run",
-    "Application.Exercicio5.executor": "Run",
-    "Application.Exercicio6.executor": "Run",
-    "Application.Exercicio7.executor": "Run",
-    "Application.Exercicio8.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Program.executor": "Run",
-    "Application.exercicioDeFixacao.executor": "Run",
-    "Application.exercicioProposto.executor": "Run",
-    "Application.fixacao1.executor": "Run",
-    "Application.fixacao2_tryWithResources.executor": "Run",
-    "Application.fixacao3_bufferedWriter.executor": "Run",
-    "Application.fixacao4_pastas.executor": "Run",
-    "Application.fixacao5_pegandoInfosDoCaminho.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/romer/Desktop/Meus Bagui/Programação/Aprendizado/Java/Curso Java Completo - Nelio Alves",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EstruturasRepetitivas.ExerciciosOpcionais.For.Exercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EstruturasRepetitivas.ExerciciosOpcionais.While.Exercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicioDeFixacao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicioProposto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fixacao1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fixacao2_tryWithResources.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fixacao3_bufferedWriter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fixacao4_pastas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fixacao5_pegandoInfosDoCaminho.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/romer/Desktop/Meus Bagui/Programação/Aprendizado/Java/Curso Java Completo - Nelio Alves&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
