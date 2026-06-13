@@ -2,13 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dc3ebe9-df06-4656-a2cd-14ea0013c0e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/interfaces/exercicioDeFixacao/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/exercicioDeFixacao/model/entitties/Contract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/exercicioDeFixacao/model/entitties/Installment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/exercicioDeFixacao/model/services/InstallmentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/exercicioDeFixacao/model/services/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/exercicioDeFixacao/model/services/PaypalPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/exerciciosPropostos/exerciciosPropostos_Map/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/exerciciosPropostos/exerciciosPropostos_Set/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/minhaFixacao_Generic/fixacao1/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/minhaFixacao_Generic/fixacao1/services/PrintService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/minhaFixacao_Generic/fixacao2/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/minhaFixacao_Generic/fixacao2/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/minhaFixacao_Generic/fixacao2/services/CalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/minhaFixacao_Generic/fixacao3/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/minhaFixacao_Generic/fixacao4/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/minhaFixacao_Generic/fixacao4/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/minhaFixacao_Generic/fixacao4/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/minhaFixacao_Generic/fixacao4/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/minhaFixacao_Generic/fixacao5/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/minhaFixacao_Generic/fixacao6/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/minhaFixacao_Generic/fixacao6/entities/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/minhaFixacao_Map/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericSetMap/minhaFixacao_Set/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/minhaFixacao_Comparable/fixacao1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/minhaFixacao_Comparable/fixacao2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/minhaFixacao_Comparable/fixacao2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/minhaFixacao_Default/BrazilInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/minhaFixacao_Default/InterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/minhaFixacao_Default/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/minhaFixacao_Default/UsaInterestService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/dataHora/java_Time/minhaFixacaoJava_Time/CalculosComDataHora/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/dataHora/java_Time/minhaFixacaoJava_Time/ConvertendoDataHora/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/dataHora/java_Time/minhaFixacaoJava_Time/InstanciandoDataHora/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/interfaces/exercicioDeFixacao/model/entitties/Contract.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curso Java Completo - Nelio Alves/interfaces/exercicioDeFixacao/model/entitties/Contract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataHora/java_Time/minhaFixacaoJava_Time/CalculosComDataHora/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataHora/java_Time/minhaFixacao_JavaTime/CalculosComDataHora/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataHora/java_Time/minhaFixacaoJava_Time/ConvertendoDataHora/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataHora/java_Time/minhaFixacao_JavaTime/ConvertendoDataHora/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataHora/java_Time/minhaFixacaoJava_Time/InstanciandoDataHora/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataHora/java_Time/minhaFixacao_JavaTime/InstanciandoDataHora/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,17 +89,24 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/romer/Desktop/Meus Bagui/Programação/Aprendizado/Java/Curso Java Completo - Nelio Alves&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
       </set>
     </attachedChunks>
   </component>
@@ -87,5 +119,8 @@
       <updated>1776698925472</updated>
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
